@@ -14,7 +14,7 @@ Once you feel comfortable with general programming basics, Chapter 2 will help g
 If you're already fairly comfortable with JavaScript, first check out Chapter 3 as a brief glimpse of what to expect from *YDKJS*, then jump right in!
 
 ## Code
-```
+```diff
  + Let's start from the beginning.
 ```
 
