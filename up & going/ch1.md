@@ -15,7 +15,7 @@ If you're already fairly comfortable with JavaScript, first check out Chapter 3 
 
 ## Code
 ```
- Let's start from the beginning.
+ + Let's start from the beginning.
 ```
 
 A program, often referred to as *source code* or just *code*, is a set of special instructions to tell the computer what tasks to perform. Usually code is saved in a text file, although with JavaScript you can also type code directly into a developer console in a browser, which we'll cover shortly.
